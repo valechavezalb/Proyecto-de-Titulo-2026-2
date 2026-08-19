@@ -12,10 +12,10 @@
 | 2. Definir los componentes del prototipo | Seleccionar los componentes necesarios para construir el primer prototipo funcional (microcontrolador, sensor, cámara, led, alimenatción y sistema de almacenamiento; comparando al menos una alternativa viable para cada componente y haciendo una tabla con compatibilidad, costo y función. | Tengo una lista concreta de los componentes que voy a utilizar y sé para qué sirve cada uno, además de su costo. |
 
 ### ☞ Mapa del viaje del usuario
-![Mapa del viaje del usuario](img/Customer Journey Map.png)
+![Mapa del viaje del usuario](img/ Customer Journey Map.png)
 
 ### ☞ Mapa de flujo técnico
-![Mapa de flujo tecnico](img/Diagrama de flujo tecnico.png)
+![Mapa de flujo tecnico](img/ Diagrama de flujo tecnico.png)
 
 ### ☞ Mapa de flujo funcional
-![Mapa de flujo funcional](img/Diagrama de flujo funcional.png)
+![Mapa de flujo funcional](img/ Diagrama de flujo funcional.png)
