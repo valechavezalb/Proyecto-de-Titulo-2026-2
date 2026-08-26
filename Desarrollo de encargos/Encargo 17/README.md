@@ -1,5 +1,5 @@
 # 🌷 Encargo 17: Wireframes del flujo a la estructura
-Miércoles 25 de agosto de 2026
+Miércoles 19 - 26 de agosto de 2026
 
 ## 🪩 Desarrollo 
 
