@@ -55,4 +55,7 @@ El usuario primero comprende su día, luego externaliza aquello que queda abiert
 
 ### 🔮 Diagrama de flujo App Umbral Nocturno
 
-![Mapa de flujo](./img/app-umbral-nocturno.png)  
+![Mapa de flujo app](./img/app-umbral-nocturno.png)  
+
+### Wireframes de la app
+![Wireframes app Umbral Nocturno](./img/wirefamesUmbralNocturno.png) 
